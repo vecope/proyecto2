@@ -26,6 +26,9 @@ class App extends Component {
         this.setState({ showModal: false });
     }
 
+    /*
+    metodo sin usar, el codigo podria ser mas limpio
+    */
     componentDidMount() {
         /*fetch("/bandas", {method:"GET", headers:{accept:"application/json"}})
             .then((res) => {
@@ -77,5 +80,7 @@ class App extends Component {
         );
     }
 }
-
+/*
+solo hace update de los estados, no envia nada al backend
+*/
 export default App;

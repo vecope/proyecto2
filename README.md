@@ -35,4 +35,8 @@ Universidad de los Andes, Programación con Tecnologías WEB
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
+##Notas
+
+- No se encontró build para hacer deployment en servidor
+
 

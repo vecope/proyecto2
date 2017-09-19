@@ -2,6 +2,10 @@ import React, {Component} from "react";
 import Banda from "./Banda.js";
 import PropTypes from "prop-types";
 
+/*
+constructor sin uso
+*/
+
 class BandasList extends Component {
     constructor(props) {
         super(props)
